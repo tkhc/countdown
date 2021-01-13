@@ -48,3 +48,13 @@ h1 {
   max-width: auto;
   height: 50%;
 }
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
